@@ -1,7 +1,7 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-01-27 at 23:58 (GMT+3)-->
-<!--Last edited by Ukelele version 2.2.8 on 2015-01-28 at 01:01 (GMT+3)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-02-02 at 20:58 (GMT+3)-->
 <keyboard group="126" id="-15231" name="Birminitsa" maxout="2">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
@@ -386,9 +386,10 @@
         </keyMap>
         <keyMap index="4">
             <key code="0" output="ª"/>
-            <key code="1" output="℠"/>
+            <key code="1" output="⇧"/>
             <key code="3" output="ƒ"/>
             <key code="8" output="©"/>
+            <key code="14" output="&#x1F4A9;"/>
             <key code="17" output="™"/>
             <key code="19" output="½"/>
             <key code="21" output="¼"/>

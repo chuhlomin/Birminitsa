@@ -1,7 +1,7 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-01-27 at 23:58 (GMT+3)-->
-<!--Last edited by Ukelele version 2.2.8 on 2015-02-02 at 20:58 (GMT+3)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-06-27 at 12:04 (EDT)-->
 <keyboard group="126" id="-15231" name="Birminitsa" maxout="2">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
@@ -245,6 +245,7 @@
             <key code="29" output="º"/>
             <key code="30" output="→"/>
             <key code="31" output="⌥"/>
+            <key code="32" output="&#x1F464;"/>
             <key code="33" output="←"/>
             <key code="34" output="ℹ︎"/>
             <key code="35" output="π"/>

@@ -68,8 +68,8 @@ body {
 
 h1 {
     color: #999;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-weight: lighter;
+    font-family: "SF UI Display", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
 }
 
 .switcher a {
@@ -139,6 +139,7 @@ h1 {
     .details {
         color: #999;
     }
+
 
 
 /* ==========================================================================

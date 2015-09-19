@@ -2,6 +2,7 @@
 Еще одна раскладка.
 
 [Демо-страница](http://chuhlomin.github.io/birminitsa/)
+
 <img src="https://raw.githubusercontent.com/chuhlomin/birminitsa/gh-pages/img/preview.gif" width="730px">
 
 ## Описание

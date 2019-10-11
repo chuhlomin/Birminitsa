@@ -18,8 +18,8 @@
 
 ## Установка
 
-1. [Скачать](https://raw.githubusercontent.com/chuhlomin/Birminitsa/master/Birminitsa.bundle)
-2. Скопировать в папку раскладок: ```cp Birminitsa.bundle ~/Library/Keyboard\ Layouts/```
+1. [Скачать](https://raw.githubusercontent.com/chuhlomin/Birminitsa/master/Birminitsa.keylayout)
+2. Скопировать в папку раскладок: ```cp Birminitsa.keylayout ~/Library/Keyboard\ Layouts/```
 3. Открыть настройки / Клавиатура / Источники ввода, добавить раскладку Birminitsa
 4. В настройках горячих клавишь выключить переключение языка по-умолчанию
 
